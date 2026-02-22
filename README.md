@@ -9,7 +9,7 @@ This repo is what I use to learn with The Odin Project
 
 
 # Projects
-## [Recipes] (https://github.com/ashathe/html-odin-recipes) ![GitHub last commit](https://img.shields.io/github/last-commit/ashathe/html-odin-recipes)
+## [Recipes](https://github.com/ashathe/html-odin-recipes) ![GitHub last commit](https://img.shields.io/github/last-commit/ashathe/html-odin-recipes)
 Recipes project from The Odin Project.
 
 
